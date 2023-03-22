@@ -1,6 +1,6 @@
-prefect==2.7.11
-prefect-airbyte==0.2.0
-prefect-dask==0.2.2
-prefect-dbt==0.2.7
-prefect-shell==0.1.4
-prefect-snowflake==0.26.0
+prefect >= 2.8
+prefect-airbyte >= 0.2.0
+prefect-dask >= 0.2.2
+prefect-dbt >= 0.2.7
+prefect-shell >= 0.1.4
+prefect-snowflake >= 0.26.0
